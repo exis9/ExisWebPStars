@@ -14,7 +14,7 @@ A 100% Free Bulk Image Resizer / Compressor / File Type Converter
 
 ---
 
-This is an app that can convert the file format and resize a large number of images at the same time.
+This is an app that can convert the file format of and resize a large number of images at the same time.
 You can also select the scaling algorithm, cropping method, compression rate, and image quality.
 
 It supports most major image formats, including **JPG, PNG, WEBP, GIF, TIFF, and AVIF**. All of them can be converted between each other.
