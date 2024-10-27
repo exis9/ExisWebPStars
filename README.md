@@ -17,7 +17,7 @@ A 100% Free Bulk Image Resizer / Compressor / File Type Converter
 This is an app that can convert the file format of and resize a large number of images at the same time.
 You can also select the scaling algorithm, cropping method, compression rate, and image quality.
 
-It supports most major image formats, including **JPG, PNG, WEBP, GIF, TIFF, and AVIF**. All of them can be converted between each other.
+It supports most major image formats, including **JPG, PNG, WEBP, GIF, BMP, TIFF, and AVIF**. All of them can be converted between each other.
 There is also a function that allows you to add sequential numbers and dates to the name when saving.
 
 ---
@@ -25,7 +25,7 @@ There is also a function that allows you to add sequential numbers and dates to 
 これは大量画像を一括でファイル形式の変換、サイズ変更を同時に出来るアプリです。
 拡縮時のアルゴリズムや切り抜き方法、圧縮率や画質も選択可能です。
 
-**JPG/PNG/WEBP/GIF/AVIF/TIFF**など、代表的な画像形式をほとんどサポートしており、全て『相互変換が可能』です。
+**JPG/PNG/WEBP/GIF/BMP/AVIF/TIFF**など、代表的な画像形式をほとんどサポートしており、全て『相互変換が可能』です。
 また、保存時の名前に連番や日付を付けるとかの機能も存在します。
 
 ---
