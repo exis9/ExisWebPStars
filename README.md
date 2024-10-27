@@ -3,7 +3,7 @@
 A 100% Free Bulk Image Resizer / Compressor / File Type Converter
 
 
-## [✅️ For Windows: Download Ver 1.00 (zip)](https://github.com/exis9/ExisWebPStars/releases/download/Windows1.00/webp-stars-1.0.0.zip)
+## [✅️ For Windows: Download Ver 1.01 (zip)](https://github.com/exis9/ExisWebPStars/releases/download/Windows1.01/webp-stars-1.0.1.zip)
 ## [✅️ For Mac: Download Ver 1.01 (dmg)](https://github.com/exis9/ExisWebPStars/releases/download/Mac1.01/webp-stars-1.0.1.dmg)
 
 <img width="200" alt="Exis WebP Stars" src="https://github.com/user-attachments/assets/187da879-6f45-4a03-9b47-affb435b3603"> 
