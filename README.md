@@ -32,6 +32,8 @@ What's more, you can even specify a background color and make it transparent for
 
 更に、背景色を指定してその色を全部のファイルから透明にするということまでも可能です！
 
+日本語にももちろん対応！
+
 ---
 
 <img width="990" alt="Exis WebP Stars" src="https://github.com/user-attachments/assets/20a8113b-5f83-48fd-8573-3fd5001044ed">
@@ -39,3 +41,6 @@ What's more, you can even specify a background color and make it transparent for
 <img width="1045" alt="Exis WebP Stars Naming Tutorial" src="https://github.com/user-attachments/assets/f4d7b4c2-cb3a-4244-9dba-8a44b5ff8a63">
 
 <img width="736" alt="Exis WebP Stars Naming Tutorial 2" src="https://github.com/user-attachments/assets/e76d95c1-6add-448e-a95e-ef77892636b8">
+
+<img width="557" alt="Screenshot 2024-12-11 at 14 21 27" src="https://github.com/user-attachments/assets/1a84453c-81ed-4640-ac7a-65d3a81c6c5c" />
+
