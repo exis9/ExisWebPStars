@@ -20,6 +20,8 @@ You can also select the scaling algorithm, cropping method, compression rate, an
 It supports most major image formats, including **JPG, PNG, WEBP, GIF, BMP, TIFF, and AVIF**. All of them can be converted between each other.
 There is also a function that allows you to add sequential numbers and dates to the name when saving.
 
+What's more, you can even specify a background color and make it transparent for all files!
+
 ---
 
 これは大量画像を一括でファイル形式の変換、サイズ変更を同時に出来るアプリです。
@@ -27,6 +29,8 @@ There is also a function that allows you to add sequential numbers and dates to 
 
 **JPG/PNG/WEBP/GIF/BMP/AVIF/TIFF**など、代表的な画像形式をほとんどサポートしており、全て『相互変換が可能』です。
 また、保存時の名前に連番や日付を付けるとかの機能も存在します。
+
+更に、背景色を指定してその色を全部のファイルから透明にするということまでも可能です！
 
 ---
 
