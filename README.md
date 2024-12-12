@@ -47,15 +47,14 @@ What's more, you can even specify a background color and make it transparent for
 
 ---
 
-<br>
-<br>
-Tutorial 1 (Click to play):<br>
+Tutorial 1 (Click to play):
+
 [![Exis WebP Stars JPN Tutorial 1](https://img.youtube.com/vi/pPvqyI7BkaE/0.jpg)](https://www.youtube.com/watch?v=pPvqyI7BkaE)
 
-<br>
-<br>
 
-Tutorial 2 (Click to play):<br>
+
+Tutorial 2 (Click to play):
+
 [![Exis WebP Stars JPN Tutorial 2](https://img.youtube.com/vi/K3KHRtYkxeI/0.jpg)](https://www.youtube.com/watch?v=K3KHRtYkxeI)
 
 
