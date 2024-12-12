@@ -44,3 +44,9 @@ What's more, you can even specify a background color and make it transparent for
 
 <img width="557" alt="Screenshot 2024-12-11 at 14 21 27" src="https://github.com/user-attachments/assets/1a84453c-81ed-4640-ac7a-65d3a81c6c5c" />
 
+Tutorial 1 (Click to play):
+[![Exis WebP Stars JPN Tutorial 1](https://img.youtube.com/vi/pPvqyI7BkaE/0.jpg)](https://www.youtube.com/watch?v=pPvqyI7BkaE)
+
+Tutorial 2 (Click to play):
+[![Exis WebP Stars JPN Tutorial 2](https://img.youtube.com/vi/K3KHRtYkxeI/0.jpg)](https://www.youtube.com/watch?v=K3KHRtYkxeI)
+
