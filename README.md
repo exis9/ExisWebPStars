@@ -22,6 +22,9 @@ There is also a function that allows you to add sequential numbers and dates to 
 
 What's more, you can even specify a background color and make it transparent for all files!
 
+For Mac users, right-click on the app icon and select "Open" when launching the app for the first time after installation. 
+(This is the case for all apps that don't pay $99 to Apple every year, due to Apple's stingy AppStore.)
+
 ---
 
 これは大量画像を一括でファイル形式の変換、サイズ変更を同時に出来るアプリです。
