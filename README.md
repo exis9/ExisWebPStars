@@ -34,6 +34,9 @@ What's more, you can even specify a background color and make it transparent for
 
 日本語にももちろん対応！
 
+なお、Macの場合はインストール後初回起動時はアプリのアイコンを右クリックして「開く」から起動してください。
+（※AppleのケチくさいAppStoreのせいで、毎年アップル様に99ドル払ってないアプリにはすべてそういう仕様です）
+
 ---
 
 <img width="990" alt="Exis WebP Stars" src="https://github.com/user-attachments/assets/20a8113b-5f83-48fd-8573-3fd5001044ed">
