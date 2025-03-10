@@ -29,7 +29,7 @@ Also, in the case of Windows, since it is not a registered on the Microsoft Stor
 
 ---
 
-これは大量画像を一括でファイル形式の変換、サイズ変更、ソートを同時に出来るアプリです。
+これは大量画像を一括でファイル形式の変換、サイズ変更、ソートを同時に出来るフリーソフト(本当に全部無料)です。
 拡縮時のアルゴリズムや切り抜き方法、圧縮率や画質も選択可能です。
 
 **JPG/PNG/WEBP/GIF/BMP/AVIF/TIFF**など、代表的な画像形式をほとんどサポートしており、全て『相互変換が可能』です。
