@@ -25,6 +25,8 @@ What's more, you can even specify a background color and make it transparent for
 For Mac users, right-click on the app icon and select "Open" when launching the app for the first time after installation. 
 (This is the case for all apps that don't pay $99 to Apple every year, due to Apple's stingy AppStore.)
 
+Also, in the case of Windows, since it is not a registered on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
+
 ---
 
 これは大量画像を一括でファイル形式の変換、サイズ変更、ソートを同時に出来るアプリです。
@@ -37,8 +39,13 @@ For Mac users, right-click on the app icon and select "Open" when launching the 
 
 日本語にももちろん対応！
 
+＜Macの場合のセキュリティ警告について＞
 なお、Macの場合はインストール後初回起動時はアプリのアイコンを右クリックして「開く」から起動してください。
 （※AppleのケチくさいAppStoreのせいで、毎年アップル様に99ドル払ってないアプリにはすべてそういう仕様です）
+
+＜Windowsの場合のセキュリティ警告について＞
+あと、Windowsの場合も、ストア登録アプリではないので初回起動時だけセキュリティ警告が出ますが、危険性はないので警告が出たら「詳細情報」をクリックして起動してください。
+（※Microsoft Storeは初回だけ19ドル払えばいいので、アップルより遥かに良心的なのですが審査と手続きが面倒くさすぎてまだやってないです）
 
 ---
 
