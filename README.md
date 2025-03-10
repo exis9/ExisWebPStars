@@ -60,13 +60,15 @@ Also, in the case of Windows, since it is not a registered on the Microsoft Stor
 
 ---
 
-YouTube Tutorial 1 (Click to play):
+YouTube Tutorial 1 (Click to play):<br>
+https://www.youtube.com/watch?v=pPvqyI7BkaE
 
 [![Exis WebP Stars JPN Tutorial 1](https://img.youtube.com/vi/pPvqyI7BkaE/0.jpg)](https://www.youtube.com/watch?v=pPvqyI7BkaE)
 
 
 
-YouTube Tutorial 2 (Click to play):
+YouTube Tutorial 2 (Click to play):<br>
+https://www.youtube.com/watch?v=K3KHRtYkxeI
 
 [![Exis WebP Stars JPN Tutorial 2](https://img.youtube.com/vi/K3KHRtYkxeI/0.jpg)](https://www.youtube.com/watch?v=K3KHRtYkxeI)
 
