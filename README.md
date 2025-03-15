@@ -25,7 +25,7 @@ What's more, you can even specify a background color and make it transparent for
 For Mac users, right-click on the app icon and select "Open" when launching the app for the first time after installation. 
 (This is the case for all apps that don't pay $99 to Apple every year, due to Apple's stingy AppStore.)
 
-Also, in the case of Windows, since it is not a registered on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
+For Windows users, since it is not a registered on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
 
 ---
 
