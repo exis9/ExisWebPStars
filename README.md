@@ -39,29 +39,6 @@ After installation, just launch the app. If you have a security warning and can'
 
 ---
 
-これは大量画像を一括でファイル形式の変換、サイズ変更、ソートを同時に出来るフリーソフト(本当に全部無料)です。
-拡縮時のアルゴリズムや切り抜き方法、圧縮率や画質も選択可能です。
-
-**JPG/PNG/WEBP/GIF/BMP/AVIF/TIFF**など、代表的な画像形式をほとんどサポートしており、全て『相互変換が可能』です。
-また、保存時の名前に連番や日付を付けるとかの機能も存在します。
-
-更に、背景色を指定してその色を全部のファイルから透明にするということまでも可能です！
-
-日本語にももちろん対応！
-
-
-Windowsでは、ストア登録アプリではないので初回起動時だけセキュリティ警告が出ますが、危険性はないので警告が出たら「詳細情報」をクリックして起動してください。
-（※Microsoft Storeは初回だけ19ドル払えばいいので、アップルより１００万倍は良心的なのですが審査と手続きが面倒くさすぎてまだやってないです 笑）
-
-Macの場合は起動時にセキュリティ警告が出てから、設定からプライバシーとセキュリティを選び、下記画像みたいな感じのことをしてください。これは初回起動時にだけ求められるもので、次回以降からは普通に起動できるようになります。
-（※AppleのケチくさいAppStoreのせいで、毎年アップル様に99ドル払ってないアプリにはすべてそういう仕様です 泣）
-
-<img width="1446" height="1278" alt="How to open freeware app on Mac" src="https://github.com/user-attachments/assets/445b85f6-12e4-4263-aaba-ee07d0abcb46" />
-
-
-
----
-
 <img width="990" alt="Exis WebP Stars" src="https://github.com/user-attachments/assets/20a8113b-5f83-48fd-8573-3fd5001044ed">
 
 <img width="1045" alt="Exis WebP Stars Naming Tutorial" src="https://github.com/user-attachments/assets/f4d7b4c2-cb3a-4244-9dba-8a44b5ff8a63">
