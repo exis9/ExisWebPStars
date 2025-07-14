@@ -32,12 +32,18 @@ If you get a security warning and can't launch this app, follow the simple steps
 
 After installation, just launch the app. If you have a security warning and can't launch it, do this:
 
+```
 1. Go to Settings and click "Privacy & Security"
 2. Click "Open Anyway"
+```
 
 <img width="1446" height="1278" alt="How to open freeware app on Mac" src="https://github.com/user-attachments/assets/445b85f6-12e4-4263-aaba-ee07d0abcb46" />
 
+
+
 ---
+
+# Gallery
 
 <img width="990" alt="Exis WebP Stars" src="https://github.com/user-attachments/assets/20a8113b-5f83-48fd-8573-3fd5001044ed">
 
