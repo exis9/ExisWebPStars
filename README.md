@@ -27,7 +27,7 @@ For Windows users, since it is not a registered on the Microsoft Store, a securi
 
 
 ## Mac is unfair for freeware developpers!
-Since I don't pay $99 to Apple every year, Mac won't allow you to launch this app without applying a unnecessary security permission.
+Since I don't pay $99 to Apple every year, Mac won't allow you to launch this app without applying an unnecessary security permission.
 If you get a security warning and can't launch this app, follow the simple steps as follow:
 
 After installation, just launch the app. If you have a security warning and can't launch it, do this:
