@@ -23,7 +23,7 @@ There is also a function that allows you to add sequential numbers and dates to 
 What's more, you can even specify a background color and make it transparent for all files!
 
 # Security Warning?
-For Windows users, since it is not a registered on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
+For Windows users, since it is not a registered app on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
 
 
 ## Mac is unfair for freeware developpers!
