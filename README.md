@@ -31,6 +31,7 @@ Since I don't pay $99 to Apple every year, Mac won't allow you to launch this ap
 If you get a security warning and can't launch this app, follow the simple steps as follow:
 
 After installation, just launch the app. If you have a security warning and can't launch it, do this:
+(This is required only one time. Next time, Apple won't annoy you)
 
 ```
 1. Go to Settings and click "Privacy & Security"
